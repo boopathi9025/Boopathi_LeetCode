@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
@@ -48,8 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0258-add-digits) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0812-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
