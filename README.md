@@ -15,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0053-maximum-subarray) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0012-integer-to-roman) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -70,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
