@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0053-maximum-subarray) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+## Binary Search
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
