@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0053-maximum-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
