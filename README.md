@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0012-integer-to-roman) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1904-second-largest-digit-in-a-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0067-add-binary) |
 | [0812-rotate-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1904-second-largest-digit-in-a-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
 | [3396-valid-word](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/3396-valid-word) |
 ## Bit Manipulation
 |  |
