@@ -1,20 +1,19 @@
 class Solution {
     public int maxProduct(int n) {
         List<Integer> list = new ArrayList<>();
-        while( n != 0)
+        int p1 = 0;
+        int p2 = 0;
+        while(n != 0)
         {
-            list.add(n%10);
-            n/=10;
+            list.add(n % 10);
+            n /=10;
         }
-        int max = 0;
-        for(int i=0;i<list.size();i++)
+        Collections.sort(list);
+        if(list.size() >= 2)
         {
-            for(int j=i+1;j<list.size();j++)
-            {
-                int prod = list.get(i)*list.get(j);
-                max = Math.max(max,prod);
-            }
+             p1 = list.get(list.size()-1);
+             p2 = list.get(list.size()-2);
         }
-        return max;
+        return p1*p2;
     }
 }
