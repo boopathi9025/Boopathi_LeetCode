@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Array
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
