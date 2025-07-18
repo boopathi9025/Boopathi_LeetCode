@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2812-find-the-maximum-achievable-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
