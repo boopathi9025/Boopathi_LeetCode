@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0258-add-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2639-separate-the-digits-in-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 ## String Matching
 |  |
 | ------- |
