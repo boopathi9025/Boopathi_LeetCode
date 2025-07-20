@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3396-valid-word](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/3396-valid-word) |
 ## Bit Manipulation
 |  |
