@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0412-fizz-buzz) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2639-separate-the-digits-in-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 ## String Matching
