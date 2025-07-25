@@ -16,6 +16,7 @@ class Solution {
                 temp /= 10;
             }
         }
-        return sum - sum1;
+        int m = Math.abs(sum-sum1);
+        return m;
     }
 }
