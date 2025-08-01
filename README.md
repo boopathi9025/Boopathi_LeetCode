@@ -185,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2507-number-of-common-factors) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
