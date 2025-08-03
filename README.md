@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0176-second-highest-salary) |
+| [0182-duplicate-emails](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0182-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
