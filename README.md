@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
