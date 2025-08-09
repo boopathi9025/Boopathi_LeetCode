@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0182-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1258-article-views-i](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
