@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -168,12 +169,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
