@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1319-unique-number-of-occurrences](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0268-missing-number) |
+| [0575-distribute-candies](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0575-distribute-candies) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1319-unique-number-of-occurrences](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
