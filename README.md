@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0268-missing-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0233-number-of-digit-one](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0233-number-of-digit-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0010-regular-expression-matching) |
 | [0224-basic-calculator](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0233-number-of-digit-one) |
 ## Greedy
 |  |
 | ------- |
