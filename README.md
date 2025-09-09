@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
+| [0214-shortest-palindrome](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0214-shortest-palindrome) |
 | [0412-fizz-buzz](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0812-rotate-string) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0812-rotate-string) |
 ## Number Theory
 |  |
@@ -269,4 +271,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
