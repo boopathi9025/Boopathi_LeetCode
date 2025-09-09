@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0812-rotate-string) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
