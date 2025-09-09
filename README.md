@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0053-maximum-subarray) |
 ## Hash Table
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0067-add-binary) |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
