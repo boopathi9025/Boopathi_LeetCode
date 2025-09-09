@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0189-rotate-array) |
 | [0220-contains-duplicate-iii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Matrix
 |  |
@@ -297,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0220-contains-duplicate-iii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
