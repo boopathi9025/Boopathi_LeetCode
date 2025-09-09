@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0068-text-justification) |
+| [0135-candy](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0260-single-number-iii) |
@@ -245,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0010-regular-expression-matching) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
