@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0068-text-justification) |
 | [0137-single-number-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0260-single-number-iii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0812-rotate-string) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0412-fizz-buzz) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
