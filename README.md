@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0068-text-justification) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0047-permutations-ii) |
 | [0220-contains-duplicate-iii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0268-missing-number) |
 | [0354-russian-doll-envelopes](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0354-russian-doll-envelopes) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0047-permutations-ii) |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0301-remove-invalid-parentheses) |
