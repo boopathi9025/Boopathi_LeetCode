@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0189-rotate-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
@@ -349,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0301-remove-invalid-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
