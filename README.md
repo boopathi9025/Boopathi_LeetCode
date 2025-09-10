@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
 | [0202-happy-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0268-missing-number) |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0086-partition-list) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
