@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0068-text-justification) |
+| [0078-subsets](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0268-missing-number) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0301-remove-invalid-parentheses) |
