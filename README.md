@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0068-text-justification) |
 | [0135-candy](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0135-candy) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0064-minimum-path-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Enumeration
 |  |
