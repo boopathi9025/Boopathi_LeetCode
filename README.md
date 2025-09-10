@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0079-word-search) |
 | [0135-candy](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0087-scramble-string) |
 | [0132-palindrome-partitioning-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0079-word-search) |
 | [1677-matrix-diagonal-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Enumeration
 |  |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0301-remove-invalid-parentheses) |
@@ -362,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
