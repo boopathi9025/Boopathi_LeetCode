@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0086-partition-list) |
 | [0189-rotate-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -372,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
