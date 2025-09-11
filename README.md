@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0135-candy) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0064-minimum-path-sum) |
 | [0087-scramble-string](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0087-scramble-string) |
+| [0120-triangle](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0120-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
