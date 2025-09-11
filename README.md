@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0089-gray-code) |
 | [0172-factorial-trailing-zeroes](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0202-happy-number) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0260-single-number-iii) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0090-subsets-ii) |
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0282-expression-add-operators) |
