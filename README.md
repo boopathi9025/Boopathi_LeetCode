@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0200-number-of-islands) |
 | [0220-contains-duplicate-iii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0260-single-number-iii) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0200-number-of-islands) |
 | [1677-matrix-diagonal-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Enumeration
 |  |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Combinatorics
 |  |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0200-number-of-islands) |
 ## Linked List
 |  |
 | ------- |
@@ -405,4 +409,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
