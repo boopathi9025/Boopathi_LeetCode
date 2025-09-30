@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2507-number-of-common-factors](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0412-fizz-buzz) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2679-count-distinct-numbers-on-board) |
 ## String Matching
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/boopathi9025/Boopathi_LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
